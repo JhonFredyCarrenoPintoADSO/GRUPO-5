@@ -1,0 +1,126 @@
+body{
+    background: linear-gradient(#7ddde4, #e9ce76, #d8d8d8);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    overflow: scroll;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+main{
+    /* background-color: #0d85f5; */
+    color: #000000;
+    font-size: 50px;
+    margin: 10px;
+    padding: 20px;
+    /* text-align: center; */
+}
+
+.est{
+    background-color:rgb(152, 203, 250);
+    color: #000;
+    font-size: 50px;
+    text-align: center;
+    border: 4px solid #000;
+    padding: 20px;
+    margin: 10px;
+}
+
+.primavera{
+    margin-top: 20px;
+}
+
+.prim{
+    font-size: 30px;
+    text-align: center;
+}
+
+.tex1{
+    font-size: 50px;
+    border: 4px solid #000;
+    background: #ffc34a;
+    margin-top: 20px;
+    margin: 10px;
+}
+
+.ver{
+    font-size: 30px;
+    text-align: center;
+}
+
+.tex2{
+    font-size: 50px;
+    border: 4px solid #000;
+    background: #d13030;
+    margin-top: 20px;
+    margin: 10px;
+}
+
+.oto{
+    font-size: 30px;
+    text-align: center;
+}
+
+.tex3{
+    font-size: 50px;
+    border: 4px solid #000;
+    background: #f38630;
+    margin-top: 20px;
+    margin: 10px;
+}
+
+.invi{
+    font-size: 30px;
+    text-align: center;
+}
+
+.tex4{
+    font-size: 50px;
+    border: 4px solid #000;
+    background: #69d2e7;
+    margin-top: 20px;
+    margin: 10px;
+}
+
+.primavera{
+    width: 500px;
+    height: 1000px;
+    /* object-fit: cover; */
+}
+
+.verano{
+    width: 500px;
+}
+
+.otoño{
+    width: 500px;
+}
+
+.invierno{
+    width: 500px;
+}
+
+footer{
+    border: 4px solid #000;
+    color: #fff;
+    font-size: 50px;
+    text-align: center;
+    border: 4px solid #000;
+    background: #677072;
+    margin-top: 20px;
+    margin: 10px;
+}
+
+img{
+    border: 4px solid #000;
+    border-radius: 10%;
+}
+
+.cont:hover{
+    background-color: #f38630;
+    text-align: center;
+    margin: 10px;
+    padding: 0px;
+    border: 2px solid #000;
+    font-family: cursive;
+}
